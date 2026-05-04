@@ -2,11 +2,11 @@
 Learning computer vision with OpenCV through small projects
 
 
-Object detection - 
+Simple Object Detection - 
 
 ![Oringial Image](image-1.png) 
 
-The goal is to detect the plane in the image above. Given the lighting, the clouds at the bottom have the same color/lighting as the plane which makes separate a bit difficult. 
+The goal is to detect the plane in the image above using simple image processing techniques. Given the lighting, the clouds at the bottom have the same color/lighting as the plane which makes separate a bit difficult. 
 
 ![Threshold Image (BINARY_INV)](image.png) 
 
